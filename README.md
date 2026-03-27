@@ -26,7 +26,7 @@ The dataset contains performance records of **100 students**.
  Reading Score------> Reading exam score
  Writing Score ------>Writing exam score 
  
- ⚙️ 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
+⚙️ 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
 Tool  ------>Purpose 
 Power BI   ------> Dashboard creation & visualization 
 Power Query  ------>Data cleaning & transformation 
