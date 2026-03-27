@@ -51,7 +51,7 @@ Created calculated fields
 Prepared dataset for analysis
 
 3️⃣ 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 (𝐄𝐃𝐀):
-Numerical vs categorical analysis
+Numerical vs categorical 
 Distribution of scores
 Outlier identification
 Column quality validation
